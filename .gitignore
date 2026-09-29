@@ -1,3 +1,5 @@
+# Asli Github
+
 # venv/
 # __pycache__/
 # .ipynb_checkpoints/
@@ -6,15 +8,14 @@
 # models/
 
 # API
-# Folder berat yang tidak perlu di repo API
 dataset/
 dataset_ril/
 notebooks/
 notebooks_ril/
 web-frontend/
-
-# Environment & cache
 venv/
 .venv/
 __pycache__/
-EOF
+.DS_Store
+app.py
+layer5_inference.py
