@@ -1,6 +1,20 @@
-venv/
-__pycache__/
-.ipynb_checkpoints/
-.DS_Store
+# venv/
+# __pycache__/
+# .ipynb_checkpoints/
+# .DS_Store
+# dataset/
+# models/
+
+# API
+# Folder berat yang tidak perlu di repo API
 dataset/
-models/
+dataset_ril/
+notebooks/
+notebooks_ril/
+web-frontend/
+
+# Environment & cache
+venv/
+.venv/
+__pycache__/
+EOF
